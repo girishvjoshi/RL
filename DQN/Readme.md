@@ -1,6 +1,4 @@
 
-Homework-3a
-
 DQN network is implemented and trained for CartPole Environment.
 
 The results.ipynb  plots the average reward vs Epochs
